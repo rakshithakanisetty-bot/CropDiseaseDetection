@@ -20,8 +20,8 @@ st.set_page_config(
 # MODEL PATHS
 # --------------------------------------------------
 
-MODEL_PATH = Path("model/crop_disease_model.keras")
-LABELS_PATH = Path("model/class_names.npy")
+MODEL_PATH = Path("crop_disease_model.keras")
+LABELS_PATH = Path("class_names.npy")
 
 
 # --------------------------------------------------
